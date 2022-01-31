@@ -49,7 +49,7 @@
 </table>
 <br/>
 
-<h4>BADGES</h4>
+<h4>BADGES & ACHIEVEMENTS</h4>
 <div align="center">
 	<a href="https://bit.ly/3o8FShe" target="_blank">
 		<img src=".img/badge-1.png" alt="HackerRank Problem Solving Basic" height="125"/>
