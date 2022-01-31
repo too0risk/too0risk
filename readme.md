@@ -58,7 +58,7 @@
 		<img src=".img/badge-2.png" alt="HackerRank Problem Solving Intermediate" height="125"/>
 	</a>
 	<a href="#" target="_blank">
-		<img src=".img/badge-3.png" alt="HackerRank Java Gold Badge" height="125"/>
+		<img src=".img/badge-3.png" alt="HackerRank Java Gold Badge" height="110"/>
 	</a>
 	<a href="https://bit.ly/3Gjcxqq" target="_blank">
 		<img src=".img/badge-4.png" alt="OCI Foundation Associate" height="130"/>
