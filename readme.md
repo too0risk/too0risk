@@ -1,54 +1,69 @@
 <h4>WHO AM I</h4>
-<img src="./header.gif" alt="Header" align="center"/>
+<img src=".img/header.gif" alt="Header" align="center"/>
 
 - 👨‍💻 Student && Back-end developer
 - 🌱 Currently learning about Offensive Pentesting
-- ⚡ I like do CP challenge but not care about time complexity :v
+- ⚡ I like solving problem but not in Math :V
 <br/><br/>
 
 <h4>TECH STACK</h4>
 <table>
 	<tr>
-		<td valign="top" width="23%">
+		<td valign="top" width="20%">
 			<h5>Front-end</h5>
 			<div align="center">
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50"/>
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50"/>
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"/>
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="50"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="40"/>
 			</div>
 		</td>
-		<td valign="top" width="30%">
+		<td valign="top" width="40%">
 			<h5>Back-end</h5>
 			<div align="center">
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50"/>
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="50"/>
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50"/>
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50"/>
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="50"/>
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.JS" height="50"/>
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="50"/>
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="50"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" />
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="40"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="40"/>
 			</div>
 		</td>
-		<td valign="top" width="23%">
+		<td valign="top" width="20%">
 			<h5>Database</h5>
 			<div align="center">
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" height="50"/>
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" height="50"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" height="40"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" height="40"/>
 			</div>
 		</td>
-		<td valign="top" width="30%">
+		<td valign="top" width="40%">
 			<h5>DevOps</h5>
 			<div align="center">
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Linux" height="50"/>
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50"/>
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" height="50"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Linux" height="40"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" height="40"/>
 			</div>
 		</td>
 	</tr>
 </table>
+<br/>
+
+<h4>BADGES</h4>
+<div align="center">
+	<a href="https://bit.ly/3o8FShe" target="_blank">
+		<img src=".img/badge-1.png" alt="HackerRank Problem Solving Basic" height="125"/>
+	</a>
+	<a href="https://bit.ly/3HeGHwg" target="_blank">
+		<img src=".img/badge-2.png" alt="HackerRank Problem Solving Intermediate" height="125"/>
+	</a>
+	<a href="#" target="_blank">
+		<img src=".img/badge-3.png" alt="HackerRank Java Gold Badge" height="125"/>
+	</a>
+	<a href="https://bit.ly/3Gjcxqq" target="_blank">
+		<img src=".img/badge-4.png" alt="OCI Foundation Associate" height="130"/>
+	</a>
+</div>
 <br/>
 
 <h4>SOCIAL MEDIA</h4>
