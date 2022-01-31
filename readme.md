@@ -33,8 +33,8 @@
 		<td valign="top" width="20%">
 			<h5>Database</h5>
 			<div align="center">
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" height="40"/>
-				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" height="40"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40"/>
 			</div>
 		</td>
 		<td valign="top" width="40%">
