@@ -28,6 +28,7 @@
 				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40"/>
 				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="40"/>
 				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="40"/>
+				<img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" height="40"/>
 			</div>
 		</td>
 		<td valign="top" width="20%">
@@ -60,8 +61,11 @@
 	<a href="#" target="_blank">
 		<img src=".img/badge-3.png" alt="HackerRank Java Gold Badge" height="110"/>
 	</a>
+	<a href="#" target="_blank">
+		<img src=".img/badge-5.png" alt="HackerRank C++ Gold Badge" height="105"/>
+	</a>
 	<a href="https://bit.ly/3Gjcxqq" target="_blank">
-		<img src=".img/badge-4.png" alt="OCI Foundation Associate" height="130"/>
+		<img style="margin-left: -50px;" src=".img/badge-4.png" alt="OCI Foundation Associate" height="130"/>
 	</a>
 </div>
 <br/>
