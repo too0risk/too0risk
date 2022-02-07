@@ -58,11 +58,14 @@
 	<a href="https://bit.ly/3HeGHwg" target="_blank">
 		<img src=".img/badge-2.png" alt="HackerRank Problem Solving Intermediate" height="125"/>
 	</a>
-	<a href="#" target="_blank">
+	<a href="https://www.hackerrank.com/wahoyuz?hr_r=1" target="_blank">
 		<img src=".img/badge-3.png" alt="HackerRank Java Gold Badge" height="110"/>
 	</a>
-	<a href="#" target="_blank">
+	<a href="https://www.hackerrank.com/wahoyuz?hr_r=1" target="_blank">
 		<img src=".img/badge-5.png" alt="HackerRank C++ Gold Badge" height="105"/>
+	</a>
+	<a href="https://www.hackerrank.com/wahoyuz?hr_r=1" target="_blank">
+		<img src=".img/badge-6.png" alt="HackerRank Python3 Gold Badge" height="108"/>
 	</a>
 	<a href="https://bit.ly/3Gjcxqq" target="_blank">
 		<img style="margin-left: -50px;" src=".img/badge-4.png" alt="OCI Foundation Associate" height="130"/>
