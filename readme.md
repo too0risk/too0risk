@@ -1,9 +1,18 @@
 <h4>WHO AM I</h4>
 <img src=".img/header.gif" alt="Header" align="center"/>
 
-- 👨‍💻 Student && Back-end developer
+- 👨‍💻 Student && Jr. Back-end developer
 - 🌱 Currently learning about Offensive Pentesting
 - ⚡ I like solving problem but not in Math :V
+- 📫 Reach me:
+```sh
+python3 -c "$(cat<<EOF
+FLAG=int('0b011011010110000101101001011011000111010001101111001110100010000001110111011000010110100001111001011101010111000001110010011010010110000101101101011000100110111101100100011011110010111001101110011001010111010001000000011001110110110101100001011010010110110000101110011000110110111101101101',2)
+print(FLAG.to_bytes((FLAG.bit_length()+7)//8,'big').decode())
+EOF
+)"
+```
+
 <br/><br/>
 
 <h4>TECH STACK</h4>
