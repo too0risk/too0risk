@@ -12,8 +12,7 @@ print(FLAG.to_bytes((FLAG.bit_length()+7)//8,'big').decode())
 EOF
 )"
 ```
-
-<br/><br/>
+<br/>
 
 <h4>TECH STACK</h4>
 <table>
@@ -66,6 +65,9 @@ EOF
 	</a>
 	<a href="https://bit.ly/3HeGHwg" target="_blank">
 		<img src=".img/badge-2.png" alt="HackerRank Problem Solving Intermediate" height="125"/>
+	</a>
+	<a href="https://bit.ly/3ozvy1I" target="_blank">
+		<img src=".img/badge-7.png" alt="HackerRank Python3 Basic" height="125"/>
 	</a>
 	<a href="https://www.hackerrank.com/wahoyuz?hr_r=1" target="_blank">
 		<img src=".img/badge-3.png" alt="HackerRank Java Gold Badge" height="110"/>
