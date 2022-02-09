@@ -69,6 +69,9 @@ EOF
 	<a href="https://bit.ly/3ozvy1I" target="_blank">
 		<img src=".img/badge-7.png" alt="HackerRank Python3 Basic" height="125"/>
 	</a>
+	<a href="https://bit.ly/3B7BYdD" target="_blank">
+		<img src=".img/badge-8.png" alt="HackerRank Java Basic" height="125"/>
+	</a>
 	<a href="https://www.hackerrank.com/wahoyuz?hr_r=1" target="_blank">
 		<img src=".img/badge-3.png" alt="HackerRank Java Gold Badge" height="110"/>
 	</a>
